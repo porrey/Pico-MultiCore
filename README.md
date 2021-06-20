@@ -1,4 +1,4 @@
-# Pico-MultiCore
+# Raspberry Pi Pico - Multi Core Example
 Example of using Multi Core in Arduino IDE with Raspberry Pi Pico board.
 
 Requires installation of the Pico board from [https://github.com/earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico).
