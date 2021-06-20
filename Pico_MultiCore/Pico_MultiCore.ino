@@ -85,7 +85,7 @@ void loop()
   if (rp2040.fifo.available() > 0)
   {
     //
-    // Get the latest about LED status
+    // Get the latest status of the LED
     // from the FIFO.
     //
     uint32_t value = rp2040.fifo.pop();
