@@ -12,7 +12,7 @@
 
 //
 // Keeps track of the last known state
-// of the LED state.
+// of the LED.
 //
 volatile uint32_t _previousValue = LOW;
 
