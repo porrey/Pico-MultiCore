@@ -48,7 +48,7 @@ void setup1()
 void loop()
 {
   //
-  // Checked if enough time has ellapsed
+  // Checked if enough time has elapsed
   // to resume the core 1.
   //
   if (_paused && (millis() - _timeStamp) > PAUSE_TIME)
