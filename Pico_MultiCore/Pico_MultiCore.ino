@@ -17,7 +17,8 @@
 volatile uint32_t _previousValue = LOW;
 
 //
-// Indicates if Core 1 currently paused or not.
+// Indicates if Core 1 is currently paused
+// or not.
 //
 volatile bool _paused = false;
 
